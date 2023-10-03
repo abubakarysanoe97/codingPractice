@@ -51,4 +51,4 @@ public class Newsfeed {
         robotTimes.changeRating(3, 5);
     }
 }
-}
+
